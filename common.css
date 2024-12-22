@@ -1,0 +1,15 @@
+#firstSide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#firstSide a {
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10%;
+    margin: 10px;
+    background-color: rgb(218, 160, 208);
+}
